@@ -103,3 +103,6 @@ Protocol activations + reasons (explainable decisions).
 Data minimization: opt‑in archives only; export/delete on request.
 
 No cross‑user emotional template cloning without explicit consent.
+
+
+
